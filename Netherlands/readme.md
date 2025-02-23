@@ -57,6 +57,3 @@ The **Orange Knowledge Programme (OKP)** focuses on themes aligned with sustaina
    - **February 2026:** Submit OKP scholarship application.  
    - **March–April 2026:** Selection and interview process (if applicable).  
    - **May 2026:** Results and confirmation of acceptance.  
-
-
-This version highlights why you’re an ideal candidate for the OKP. Let me know if you'd like any further adjustments! 😊
