@@ -8,7 +8,7 @@
 | 🥇 3        | Sweden      | Swedish Institute Scholarship     | Tuition, living expenses, travel grant, insurance                                                     | Bachelor's degree, leadership experience, IELTS/TOEFL                                                   | Leadership roles in CrisisCrew, ROBU, and Bard exchange semester                                         |
 | 🏅 4        | Australia   | Australia Awards Scholarship      | Tuition, return airfare, living allowance, Overseas Student Health Cover                               | Bachelor’s degree, work experience, IELTS/TOEFL                                                        | Research in remote sensing, GIS, and SDG-focused projects like CrisisCrew                               |
 | 🎖️ 5       | Netherlands | Orange Knowledge Programme         | Tuition, travel costs, living allowance, health insurance                                              | Bachelor's degree, work experience, IELTS/TOEFL                                                        | Strong profile in disaster management, AI, and leadership with international exposure                    |
-
+# Europe
 
 | **Country**       | **Tuition Fees** | **Living Costs** | **Visa Process** | **Language** | **Work Opportunities** |
 |------------------|----------------|----------------|----------------|------------|----------------------|
