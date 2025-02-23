@@ -1,6 +1,5 @@
 # 🎓 Higher Studies Plan
 
-## 🌍 Target Countries and Scholarships
 
 | **Priority** | **Country** | **Scholarship Name**           | **Coverage**                                                                                         | **Requirements**                                                                                      | **Why I Can Get It**                                                                                  |
 |-------------|-------------|---------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -9,3 +8,16 @@
 | 🥇 3        | Sweden      | Swedish Institute Scholarship     | Tuition, living expenses, travel grant, insurance                                                     | Bachelor's degree, leadership experience, IELTS/TOEFL                                                   | Leadership roles in CrisisCrew, ROBU, and Bard exchange semester                                         |
 | 🏅 4        | Australia   | Australia Awards Scholarship      | Tuition, return airfare, living allowance, Overseas Student Health Cover                               | Bachelor’s degree, work experience, IELTS/TOEFL                                                        | Research in remote sensing, GIS, and SDG-focused projects like CrisisCrew                               |
 | 🎖️ 5       | Netherlands | Orange Knowledge Programme         | Tuition, travel costs, living allowance, health insurance                                              | Bachelor's degree, work experience, IELTS/TOEFL                                                        | Strong profile in disaster management, AI, and leadership with international exposure                    |
+
+
+| **Country**       | **Tuition Fees** | **Living Costs** | **Visa Process** | **Language** | **Work Opportunities** |
+|------------------|----------------|----------------|----------------|------------|----------------------|
+| **Germany**      | Low or no tuition fees in public universities (except in some states) | Moderate, with various student accommodation options | Well-defined process for international students | Many master's programs in English, especially in STEM fields | Part-time work allowed during studies; full-time during breaks |
+| **Netherlands**  | Higher than Germany, but scholarships available | Higher, especially in cities like Amsterdam, but manageable with part-time work | Efficient; Search Year Visa allows a year for job search after graduation | Many master's programs in English | Part-time work allowed; good post-study work opportunities |
+| **Sweden**       | Tuition fees for non-EU students, with scholarships available | High, but offset by scholarships and quality of life | Straightforward for students with an offer | Many programs in English | Part-time work allowed; six-month post-study visa for job search |
+| **Finland**      | Tuition fees for non-EU students, with scholarships available | Moderate to high | Clear and straightforward process | Many master's programs in English | Part-time work allowed; one-year post-study job search option |
+| **Norway**       | Free education at public universities, even for international students | High, but offset by no tuition fees | Straightforward, with strong student support | Many master's programs in English | Part-time work allowed; one-year post-study job search option |
+| **France**       | Low tuition fees, especially in public universities | Moderate to high, with student discounts available | Generally efficient; post-study work visas available | Many programs in English; learning French beneficial | Part-time work allowed; post-study work opportunities available |
+| **Austria**      | Low tuition fees at public universities for international students | Moderate | Clear visa process for international students | Some programs in English; German proficiency helpful | Part-time work allowed; post-study work visa options available |
+| **Czech Republic** | Affordable tuition fees, especially in public universities | Relatively low compared to Western Europe | Can be bureaucratic but manageable | Increasing number of English-taught programs | Part-time work allowed; some post-study employment opportunities |
+
